@@ -8,3 +8,8 @@
 body{
   background-color: rgb(200,200,200);
 }
+button{
+  background-color:rgba(0,100,0,0.8);
+  width:120px;
+  height:100px;
+}
